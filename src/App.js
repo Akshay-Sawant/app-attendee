@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Aabid
+          Learn React Team Teno
         </a>
       </header>
     </div>
